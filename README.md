@@ -6,5 +6,4 @@ gRPC,
 Proto
 
 # Build
-Run make, 
-Execute client/server in separate terminals.
+Run make and execute client/server on separate terminals.
