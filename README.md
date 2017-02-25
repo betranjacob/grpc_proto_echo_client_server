@@ -2,9 +2,9 @@
 An echo client-server example using Goolge gRPC and Proto serialisation 
 
 # Prerequisits
-gRPC
+gRPC, 
 Proto
 
 # Build
-Run make
+Run make, 
 Execute client/server in separate terminals.
